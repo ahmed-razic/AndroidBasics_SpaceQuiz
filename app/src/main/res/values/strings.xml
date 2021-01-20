@@ -20,6 +20,7 @@
 
     <string name="your_results">Questions you answered correctly: </string>
     <string name="_0">0</string>
+    <string name="reset">Reset</string>
 
 
 </resources>
