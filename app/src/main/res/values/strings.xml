@@ -1,28 +1,25 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Space Quiz</string>
 
-
-    <xliff:g id="addWhippedCream" example="true">%b</xliff:g>
-
     <string name="question1">Q1.What is the name of our closest galaxy? </string>
-    <string name="answer1_1">Milky Way</string>
-    <string name="answer1_2">Andromeda</string>
-    <string name="answer1_3">H37P_X1</string>
-
-
     <string name="question2">Q2.How many planets are there in our solar system? </string>
     <string name="question3">Q3.Which is the biggest planet in our solar system? </string>
     <string name="question4">Q4.Which planet is closest to the sun? </string>
-    <string name="question5">Q5.What is phrase "blue pearl" referred to?  </string>
+    <string name="question5">Q5.What is phrase "Blue pearl" referred to?  </string>
+
     <string name="space_quiz">Space quiz</string>
     <string name="checkbox1">Mercury</string>
     <string name="checkbox2">Venus</string>
     <string name="submit">Submit</string>
     <string name="jupiter">Jupiter</string>
     <string name="saturn">Saturn</string>
+
     <string name="your_answer_here_1">Your answer here</string>
     <string name="your_answer_here_2">Your answer here</string>
     <string name="your_answer_here_3">Your answer here</string>
+
+    <string name="your_results">Questions you answered correctly: </string>
+    <string name="_0">0</string>
 
 
 </resources>
